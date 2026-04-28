@@ -40,10 +40,22 @@ Dari hasil tersebut, dapat disimpulkan bahwa refactoring yang dilakukan berhasil
 
 ##### `/highest-gpa`
 
+![Profiler before highest-gpa](Screenshot 2026-04-28 204245.png)
+
+
 #### SCREENSHOT AFTER OPTIMIZATION
 
+##### `/all-student`
 
-![Profiler before highest-gpa](Screenshot 2026-04-28 204245.png)
+![Profiler after all-student](Screenshot 2026-04-28 204724.png)
+
+##### `/all-student-name`
+
+![Profiler after all-student-name](Screenshot 2026-04-28 204751.png)
+
+##### `/highest-gpa`
+
+![Profiler after highest-gpa](Screenshot 2026-04-28 204802.png)
 
 
 ## Reflection
